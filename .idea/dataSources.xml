@@ -29,11 +29,11 @@
       <jdbc-url>jdbc:mysql://136.113.127.151:3306/neighborhood_db</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="messaging-db@34.57.117.148" uuid="7a1b972e-1d49-4349-8c89-bf9ff1edff65">
+    <data-source source="LOCAL" name="messaging_db@34.57.117.148" uuid="7a1b972e-1d49-4349-8c89-bf9ff1edff65">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://34.57.117.148:3306/messaging-db</jdbc-url>
+      <jdbc-url>jdbc:mysql://34.57.117.148:3306/messaging_db</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>
